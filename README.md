@@ -13,7 +13,7 @@ I'm always open to discussing new ideas and opportunities in the tech world!
 
 abdul-aziz-mohammed/abdul-aziz-mohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 👋 Hi, I’m Abdul Aziz Mohammed (@abdul-aziz-mohammed). I'm a Computer Science student at the University of Texas at Dallas, specializing in AI, cloud computing, and machine learning.
 
 🔍 My passion lies in leveraging technology to solve complex problems. I enjoy working on projects that integrate data analysis, AI, and cloud technologies to drive innovation and efficiency.
@@ -25,3 +25,4 @@ You can click the Preview link to take a look at your changes.
 🤝 Open for collaborations and discussions on AI, machine learning, and cloud computing projects.
 
 📫 Feel free to connect with me on LinkedIn or reach out via email at abdul.aziz.mohammed@outlook.com.
+--->
