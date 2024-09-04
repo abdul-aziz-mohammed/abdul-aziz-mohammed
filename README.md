@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Abdul Aziz Mohammed (@axm0). I'm a Computer Science student at the University of Texas at Dallas, specializing in AI, cloud computing, and machine learning.
-- 📫 How to reach me: Feel free to connect with me on LinkedIn or drop an email at abdul.aziz.mohammed@outlook.com.
+
