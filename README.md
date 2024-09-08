@@ -19,13 +19,13 @@
 
 Software engineer on contract with United Airlines, part of the payments and ticketing team.
 
-§  I designed process flow diagrams and system architecture for migrating ticketing and payments pipelines to AWS cloud, contributing to a 14% reduction in data processing time  
-§  I developed high-performance APIs and ETL pipelines using Golang and Python, handling over 1 million transactions daily with 99.99% uptime  
-§  I implemented real-time data processing with AWS (Lambda, API Gateway, Kinesis), integrating AWS SQS to achieve 99% message delivery reliability, processing over 20,000 messages per minute  
-§  I created fully autonomous Ticket Reissue and Ticket Reshop backend services with a React-based UI, automating the capture and processing of fully paid or unticketed failed PNRs  
-§  I improved Tableau reporting efficiency by implementing automated keyword extraction using Llama 3 LLM, increasing report generation speed by 20%  
-§  I independently resolved a critical after-hours production issue, preventing potential losses of up to $2.5 million and ensuring continuity of airline ticketing operations  
-§  I automated AWS resource provisioning using CloudFormation and Jenkins, integrated with Bitbucket-CloudBees-UCD for seamless CI/CD deployment  
+§  Designed process flow diagrams and system architecture for migrating ticketing and payments pipelines to AWS cloud, contributing to a 14% reduction in data processing time  
+§  Developed high-performance APIs and ETL pipelines using Golang and Python, handling over 1 million transactions daily with 99.99% uptime  
+§  Implemented real-time data processing with AWS (Lambda, API Gateway, Kinesis), integrating AWS SQS to achieve 99% message delivery reliability, processing over 20,000 messages per minute  
+§  Created fully autonomous Ticket Reissue and Ticket Reshop backend services with a React-based UI, automating the capture and processing of fully paid or unticketed failed PNRs  
+§  Improved Tableau reporting efficiency by implementing automated keyword extraction using Llama 3 LLM, increasing report generation speed by 20%  
+§  Independently resolved a critical after-hours production issue, preventing potential losses of up to $2.5 million and ensuring continuity of airline ticketing operations  
+§  Automated AWS resource provisioning using CloudFormation and Jenkins, integrated with Bitbucket-CloudBees-UCD for seamless CI/CD deployment  
 
 ## CERTIFICATIONS
 
